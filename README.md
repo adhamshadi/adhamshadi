@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Adham Shadi 👋
 
-<!--
-**adhamshadi/adhamshadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Artificial Intelligence Student at Jadara University  
+💻 Learning Python & C++  
+🤖 Interested in Artificial Intelligence & Machine Learning  
+🚀 Building my skills through practical projects
 
-Here are some ideas to get you started:
+## 🧠 Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Artificial Intelligence
+- Machine Learning
+- Software Development
+- Problem Solving
+
+## 🛠️ Currently Learning
+
+- Python
+- C++
+- Git & GitHub
+- Artificial Intelligence
+- Machine Learning
+
+## 🎯 Goals
+
+To continuously improve my programming skills, build practical projects, and grow toward a career in Artificial Intelligence and Machine Learning.
+
+## 📫 Connect with me
+
+- GitHub: [@adhamshadi](https://github.com/adhamshadi)
